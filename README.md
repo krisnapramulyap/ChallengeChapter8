@@ -7,3 +7,7 @@ Tugas kalian disini adalah:
 3. Coverage minimal 70%
 
 Good luck!
+
+######################################################
+
+Link Deployment : https://challenge-8-binar-fsw1.herokuapp.com/
